@@ -1,5 +1,5 @@
 {
-  "name": "donutdan4114/shopify",
+  "name": "k1dxd/shopify",
   "description": "Shopify PHP SDK to interact with the Shopify API.",
   "require": {
     "guzzlehttp/guzzle": "^6.5.8 || ^7.4.5",
